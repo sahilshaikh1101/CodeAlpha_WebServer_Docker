@@ -206,14 +206,3 @@ Through this project, I learned:
 
 ---
 
-## 👨‍💻 Author
-
-**Sahil Shaikh**
-
-DevOps Intern — CodeAlpha
-
----
-
-## 🏢 Internship Information
-
-This project was completed as part of the **CodeAlpha DevOps Internship Program**.
